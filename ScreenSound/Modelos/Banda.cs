@@ -1,6 +1,4 @@
-﻿using ScreenSound.Modelos;
-
-namespace ScreenSound.Modelos;
+﻿namespace ScreenSound.Modelos;
 
 internal class Banda
 {
